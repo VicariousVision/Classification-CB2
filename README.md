@@ -6,12 +6,12 @@ With this context, EDSA is challenging US to construct a recommendation algorith
 
 Providing an accurate and robust solution to this challenge has immense economic potential, with users of the system being personalised recommendations - generating platform affinity for the streaming services which best facilitates their audience's viewing.
 
-###TEAM CB2 
+#TEAM CB2 
  1. Ozzey Padayachee (Team cordinater)
- 2. hrefNhlanhla Ngwenya
+ 2. Nhlanhla Ngwenya
  3. Sinethemba Nongqoto
  4. Samuel Mnisi
- 5.Sinhle Nkumbule
+ 5. Sinhle Nkumbule
 
 ### Technologies Used
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
